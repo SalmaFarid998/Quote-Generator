@@ -1,0 +1,21 @@
+*{text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h1{font-size: 60px;}
+button{
+    background-color: yellowgreen;
+    padding: 20px;
+    font-size: 26px;
+    border-radius: 20px;
+    transition: 0.35s;
+}
+button:hover{
+    background-color: rgb(83, 121, 8);
+    color: white;
+}
+#quote{
+    width:80%;
+    margin: auto;
+}
